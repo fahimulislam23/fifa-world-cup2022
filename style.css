@@ -114,6 +114,11 @@ body {
     color: #FFFFFF;
 }
 
+.button-div a .color-2 {
+    background-color: #DD0000;
+    color: #FFFFFF;
+}
+
 .right-section {
     width: 75%;
     display: grid;
